@@ -6,3 +6,8 @@ app1=create_app(config_name)
 
 if __name__ == "__main__":
     app1.run(debug=True)
+
+    
+    
+    
+#     Hi suresh i want to change code in app
